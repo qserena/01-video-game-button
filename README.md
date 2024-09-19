@@ -27,13 +27,9 @@ This is one of 40 challenges in Scrimba's <a href="https://v2.scrimba.com/react-
 ```
 
 <br/>
-<img src="./study-buddy-1.png" alt="Flashcard not flipped." width="300px"/>
-<em>Flashcard not flipped yet.</em>
+<img src="./play.png" alt="Play." width="300px"/>
+<em>The button.</em>
 <br/>
-<br/>
-<br/>
-<img src="./study-buddy-2.png" alt="Flashcard flipped." width="300px"/>
-<em>Flashcard flipped.</em>
 <br/>
 <br/>
 
@@ -44,4 +40,4 @@ This is one of 40 challenges in Scrimba's <a href="https://v2.scrimba.com/react-
 
 ## Live link
 The solution is deployed here:
-[https://toms-study-buddy.netlify.app](https://toms-study-buddy.netlify.app)
+[https://video-game-button.netlify.app](https://video-game-button.netlify.app)
